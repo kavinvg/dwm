@@ -1,4 +1,4 @@
-//hierarchial clustering, output will be a dendogram
+#hierarchial clustering, output will be a dendogram
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.cluster.hierarchy import dendrogram, linkage
